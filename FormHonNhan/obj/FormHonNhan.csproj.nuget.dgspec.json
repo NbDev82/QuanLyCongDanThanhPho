@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A\\Desktop\\FormHonNhan\\FormHonNhan\\FormHonNhan.csproj": {}
+    "C:\\Users\\A\\Desktop\\FormHonNhan\\QuanLyCongDanThanhPho\\FormHonNhan\\FormHonNhan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A\\Desktop\\FormHonNhan\\FormHonNhan\\FormHonNhan.csproj": {
+    "C:\\Users\\A\\Desktop\\FormHonNhan\\QuanLyCongDanThanhPho\\FormHonNhan\\FormHonNhan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A\\Desktop\\FormHonNhan\\FormHonNhan\\FormHonNhan.csproj",
+        "projectUniqueName": "C:\\Users\\A\\Desktop\\FormHonNhan\\QuanLyCongDanThanhPho\\FormHonNhan\\FormHonNhan.csproj",
         "projectName": "FormHonNhan",
-        "projectPath": "C:\\Users\\A\\Desktop\\FormHonNhan\\FormHonNhan\\FormHonNhan.csproj",
+        "projectPath": "C:\\Users\\A\\Desktop\\FormHonNhan\\QuanLyCongDanThanhPho\\FormHonNhan\\FormHonNhan.csproj",
         "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A\\Desktop\\FormHonNhan\\FormHonNhan\\obj\\",
+        "outputPath": "C:\\Users\\A\\Desktop\\FormHonNhan\\QuanLyCongDanThanhPho\\FormHonNhan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "dependencies": {
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.5, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

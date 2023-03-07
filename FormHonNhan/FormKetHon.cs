@@ -2,6 +2,7 @@ namespace FormHonNhan
 {
     public partial class FormKetHon : Form
     {
+        DBConnection conn = new DBConnection();
         public FormKetHon()
         {
             InitializeComponent();
