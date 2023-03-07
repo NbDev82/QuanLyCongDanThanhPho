@@ -16,5 +16,10 @@ namespace FormHonNhan
         {
 
         }
+
+        private void btnCheck_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
